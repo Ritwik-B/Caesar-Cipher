@@ -13,5 +13,5 @@ function rot13(str) {
     return solved;
 }
 
-
+//Change input 
 rot13("SFRF FCGH TR$");
